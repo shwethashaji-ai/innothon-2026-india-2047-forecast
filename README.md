@@ -50,7 +50,7 @@ The range is the backtest error widened with the forecast horizon. It is not a s
 
 - Population and GSDP: `renewable_energy_dataset.csv` from https://github.com/chrisjaimyantony/renewable-india-dataset (not included here).
 - Generation: the National Power Portal dashboard, https://npp.gov.in
-
+**Live dashboard:** https://powerpath-2047-india-electricity-generation-forec.ai.studio
 ## Author
 
 Shwetha Shaji, Dayananda Sagar College of Engineering.
